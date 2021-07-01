@@ -1,0 +1,27 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS                        PORTS                               NAMES
+985ac242fe6b   test           "nginx -g 'daemon of…"   6 minutes ago    Up 6 minutes                  0.0.0.0:80->80/tcp, :::80->80/tcp   zealous_khorana
+9eec3327e98b   test           "nginx -g 'daemon of…"   7 minutes ago    Exited (0) 7 minutes ago                                          reverent_joliot
+e906e520d60e   test           "nginx -g 'daemon of…"   9 minutes ago    Exited (0) 8 minutes ago                                          kind_lumiere
+dcb67fc123df   test           "nginx -g 'daemon of…"   10 minutes ago   Exited (0) 10 minutes ago                                         youthful_napier
+52d6984ec9e2   test           "nginx -g 'daemon of…"   11 minutes ago   Exited (0) 11 minutes ago                                         zen_hofstadter
+bf9cbe32a466   test           "nginx -g 'daemon of…"   12 minutes ago   Exited (0) 12 minutes ago                                         zen_einstein
+a919af72379b   17f226e5cadc   "/bin/sh -c '['servi…"   26 hours ago     Exited (127) 26 hours ago                                         goofy_joliot
+501a2d8b861b   9a99d5faccad   "/bin/sh -c 'service…"   26 hours ago     Exited (127) 26 hours ago                                         quizzical_mcclintock
+b1ed017dfa2a   333a93bbc282   "/bin/sh -c 'service…"   26 hours ago     Exited (127) 26 hours ago                                         quizzical_kare
+7c0b79319bd7   333a93bbc282   "/bin/sh -c 'service…"   26 hours ago     Exited (127) 26 hours ago                                         festive_hoover
+559184f6628e   333a93bbc282   "/bin/sh -c 'service…"   26 hours ago     Created                                                           jovial_haslett
+164915f14f5d   ab9fc7121196   "/bin/sh"                26 hours ago     Exited (137) 26 hours ago                                         wizardly_burnell
+b6949589c4d1   44d55ee29430   "/bin/sh -c nginx"       27 hours ago     Exited (0) 27 hours ago                                           zen_shirley
+e92b4c16a789   3d4d719e512a   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         dreamy_mirzakhani
+48693c28dafd   926547eca740   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         lucid_bartik
+f4850a135561   f14935443077   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         infallible_swanson
+2482ef0f258c   926547eca740   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         pedantic_khayyam
+6ecfe4fd402b   3bce40846846   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         lucid_ramanujan
+7be239598df2   3bce40846846   "-p 80:80"               27 hours ago     Created                       80/tcp                              wonderful_poitras
+5c5e7b919fb5   3bce40846846   "-e 80:80"               27 hours ago     Created                       80/tcp                              strange_einstein
+c0ba8ef8090f   3bce40846846   "-p 80:80"               27 hours ago     Created                       80/tcp                              tender_torvalds
+77750c9d4d65   3bce40846846   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         zealous_lovelace
+b817f0c05f5b   5361ef7ac7fe   "/bin/sh"                27 hours ago     Exited (137) 27 hours ago                                         confident_blackwell
+d6206393479a   8294b14cf480   "/bin/sh"                28 hours ago     Exited (137) 27 hours ago                                         sharp_leavitt
+1a2a22d660e2   8294b14cf480   "/bin/sh"                28 hours ago     Exited (137) 28 hours ago                                         cranky_rubin
+e0e24ba4cc8c   8294b14cf480   "/bin/sh"                28 hours ago     Exited (0) 28 hours ago                                           nostalgic_dhawan
